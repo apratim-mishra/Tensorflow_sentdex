@@ -6,3 +6,5 @@ Convolutional Layers
 Tensorboard introduction
 
 Tensorboard fitting
+
+RNN basic 
